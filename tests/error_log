@@ -1,0 +1,20 @@
+[12-Jul-2024 07:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php on line 7
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php on line 7
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php on line 7
+[12-Jul-2024 07:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php on line 7
+[12-Jul-2024 07:34:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/tests/TestCase.php on line 7

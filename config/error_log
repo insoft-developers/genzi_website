@@ -1,0 +1,528 @@
+[12-Jul-2024 05:58:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 05:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 05:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 05:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 05:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 05:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 05:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 05:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 05:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 05:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 05:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 05:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 05:58:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 05:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 05:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 05:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 05:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 05:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 05:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 05:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 05:58:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 06:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 06:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 06:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 06:00:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 06:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 06:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 06:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 06:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php on line 17
+[12-Jul-2024 06:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 06:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php on line 19
+[12-Jul-2024 06:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 06:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 06:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 06:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php on line 19
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php on line 16
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php on line 16
+[12-Jul-2024 06:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 06:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php on line 17
+[12-Jul-2024 06:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 06:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 06:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php on line 19
+[12-Jul-2024 06:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 06:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 06:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 06:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 06:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 06:24:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 06:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 06:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php on line 16
+[12-Jul-2024 06:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 06:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php on line 17
+[12-Jul-2024 06:24:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 06:24:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 06:24:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 06:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 06:26:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php on line 16
+[12-Jul-2024 06:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 06:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 06:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 06:26:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 06:26:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 06:26:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 06:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 06:26:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php on line 19
+[12-Jul-2024 06:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php on line 17
+[12-Jul-2024 06:26:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 06:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php on line 18
+[12-Jul-2024 06:32:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php on line 18
+[12-Jul-2024 07:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php on line 18
+[12-Jul-2024 07:34:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 07:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php on line 17
+[12-Jul-2024 07:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 07:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 07:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php on line 17
+[12-Jul-2024 07:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 07:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php on line 17
+[12-Jul-2024 07:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 07:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php on line 18
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php on line 18
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php on line 19
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php on line 19
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php on line 19
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php on line 17
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 07:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/session.php on line 21
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 07:34:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php on line 19
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/view.php on line 17
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/filesystems.php on line 16
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php on line 16
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php on line 16
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php on line 18
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php on line 16
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 07:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 07:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 07:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 07:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/mail.php on line 19
+[12-Jul-2024 07:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 07:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19
+[12-Jul-2024 07:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/services.php on line 18
+[12-Jul-2024 07:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/app.php on line 16
+[12-Jul-2024 07:34:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/database.php on line 18
+[12-Jul-2024 07:34:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/broadcasting.php on line 18
+[12-Jul-2024 07:34:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/cache.php on line 21
+[12-Jul-2024 07:34:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/hashing.php on line 32
+[12-Jul-2024 07:34:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/queue.php on line 16
+[12-Jul-2024 07:34:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/config/logging.php on line 19

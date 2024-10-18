@@ -1,0 +1,20 @@
+[12-Jul-2024 05:59:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php on line 14
+[12-Jul-2024 05:59:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php on line 14
+[12-Jul-2024 05:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php on line 14
+[12-Jul-2024 05:59:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php on line 14
+[12-Jul-2024 06:01:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/gens7193/public_html/panel-admin.gen-zi.id/bootstrap/app.php on line 14
